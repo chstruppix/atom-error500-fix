@@ -8,7 +8,7 @@ You're here because Atom, the hackable text editor, is terrible in terms of inst
 All you want to do is install a package in Atom, for ex. Hydrogen, and you've looked for hours but can't seem to find a way to install it, as none of the methods you've tried seem to beworking.
 
 
-• You are unable to download the specific package from the built-in Atom Package/Theme Installer
+• You are unable to download the specific package from the built-in Atom Package/Theme Installer.
 • After some research, you discovered a new method- 'apm install <package>'. However, that does not seem to work for you as well. 
 • After headaches and a total mood-buster experience, you tend to think of giving up on coding itself, because you start questioning yourself- 'I can't even set up an IDE, how will I code!' 
 • Your inner curiosity seems to maintain it's stability. Staying motivated, you keep the thought of giving up aside, and start researching.
@@ -18,6 +18,8 @@ Because of the minimal popularity of this repo, you come across this repo late.
 Hopefully, you've come to the right place, and I can finally free you from the tight situation a meant-to-be-simple text editor has placed you in.
 
 So the errors you are facing are-
+
+
 
 
 
